@@ -6,9 +6,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import java.io.FileReader;
 
-/**
- * Created by krist on 17-10-2016.
- */
 public class ConfigController {
 
     public Config getConfig() {

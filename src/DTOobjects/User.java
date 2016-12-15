@@ -1,8 +1,5 @@
 package DTOobjects;
 
-/**
- * Created by Emma og Thomas on 17-10-2016.
- */
 public class User {
 
     // Attributter oprettes
@@ -95,12 +92,6 @@ public class User {
     public void setType(int type) {
         this.type = type;
     }
-
-    public void setMobilePay(int mobilePay) {
-        this.mobilepay = mobilePay;
-    }
-
-
 
 }
 
